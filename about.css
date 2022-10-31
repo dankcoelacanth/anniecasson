@@ -1,0 +1,121 @@
+#myname {
+    position:relative;
+    width:1000px;
+    height:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-left:30%;
+    bottom:300px;
+    text-align:center;
+    background-color:rgb(251, 255, 253);
+}
+
+#myname h3 {
+    margin-top:60px;
+}
+
+#mepic img {
+    height:550px;
+    width: 400px;
+    margin-left:10%;
+    border:2px;
+    border-style:solid;
+    border-radius:20px;
+    margin-top:100px;
+}
+
+#firstminipic img {
+    position:relative;
+    height:550px;
+    width: 400px;
+    margin-left:65%;
+    border:2px;
+    border-style:solid;
+    border-radius:20px;
+    bottom:200px;
+
+}
+
+#worldeaters {
+    position:relative;
+    width:1000px;
+    height:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-left:15%;
+    bottom:550px;
+    text-align:center;
+    background-color:rgb(251, 255, 253);
+}
+#worldeaters h3 {
+    margin-left:200px;
+    margin-top:14px;
+    width:600px;
+}
+
+#abaddon img {
+    position:relative;
+    height:550px;
+    width: 400px;
+    margin-left:10%;
+    border:2px;
+    border-style:solid;
+    border-radius:20px;
+    bottom:450px;
+
+}
+
+#silversquig {
+    position:relative;
+    width:1000px;
+    height:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-left:28%;
+    bottom:800px;
+    text-align:center;
+    background-color:rgb(251, 255, 253);
+}
+
+#silversquig h3 {
+    margin-top:50px;
+    width:600px;
+    margin-left:200px;
+}
+
+#stormcast img {
+    position:relative;
+    height:550px;
+    width: 400px;
+    margin-left:65%;
+    border:2px;
+    border-style:solid;
+    border-radius:20px;
+    bottom:700px;
+}
+
+#continuepainting {
+    position:relative;
+    width:1000px;
+    height:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-left:15%;
+    bottom:1000px;
+    text-align:center;
+    background-color:rgb(251, 255, 253);
+}
+
+#continuepainting h3 {
+    margin-top:20px;
+    width:600px;
+    margin-left:200px;
+}

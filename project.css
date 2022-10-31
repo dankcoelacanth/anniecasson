@@ -1,0 +1,136 @@
+#sketch img {
+    position:relative;
+    margin-left:20%;
+    border:2px;
+    border-style:solid;
+    border-radius:20px;
+    margin-top:2%;
+}
+
+#firsttext {
+    position:relative;
+    width:1000px;
+    height:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-left:28%;
+    text-align:center;
+    background-color:rgb(251, 255, 253);
+    margin-top:20px;
+}
+
+#firsttext h3 {
+    margin-top:30px;
+    width:700px;
+    margin-left:150px;
+}
+
+#wallfiles img {
+    width:40%;
+    height:40%;
+    margin-left:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-top:50px;
+}
+
+#islandfiles img {
+    position:relative;
+    width:40%;
+    height:40%;
+    margin-left:1000px;
+    bottom:378px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+}
+
+#secondtext {
+    position:relative;
+    width:1000px;
+    height:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-left:28%;
+    text-align:center;
+    background-color:rgb(251, 255, 253);
+    margin-top:20px;
+    bottom:350px;
+}
+
+#secondtext h3 {
+    margin-top:30px;
+    width:700px;
+    margin-left:150px;
+}
+
+#prototype img {
+    width:40%;
+    position:relative;
+    margin-left:35%;
+    border:2px;
+    border-style:solid;
+    border-radius:20px;
+    margin-top:2%;
+    bottom:350px;
+}
+
+#thirdtext {
+    position:relative;
+    width:1000px;
+    height:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-left:28%;
+    text-align:center;
+    background-color:rgb(251, 255, 253);
+    margin-top:20px;
+    bottom:350px;
+}
+
+#thirdtext h3 {
+    margin-top:20px;
+    width:700px;
+    margin-left:150px;
+}
+
+#almostfinal img {
+    width:40%;
+    position:relative;
+    margin-left:35%;
+    border:2px;
+    border-style:solid;
+    border-radius:20px;
+    margin-top:2%;
+    bottom:350px;
+}
+
+#fourthtext {
+    position:relative;
+    width:1000px;
+    height:150px;
+    border:2px;
+    border-style:solid;
+    border-color:rgb(0, 37, 7);
+    border-radius:20px;
+    margin-left:28%;
+    text-align:center;
+    background-color:rgb(251, 255, 253);
+    margin-top:20px;
+    bottom:350px;
+}
+
+#fourthtext h3 {
+    margin-top:10px;
+    width:700px;
+    margin-left:150px;
+}
